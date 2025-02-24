@@ -26,6 +26,11 @@
   </a>
 </div>
 
+---
+## ⏰ My Coding Activity
+![Metrics](https://metrics.lecoq.io/kyungyunie?template=classic&base=header,activity,community&base.indepth=false&base.hireable=false&config.timezone=Asia%2FSeoul&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true)
+
+
 
 <br>
 <br>
