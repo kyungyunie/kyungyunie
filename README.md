@@ -15,6 +15,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungyunie&layout=compact&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/kyungyunie?template=classic&isocalendar=1&isocalendar.duration=full-year)
 
 
 ---
