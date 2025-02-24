@@ -1,56 +1,87 @@
-# Hi there! 👋 Welcome to my GitHub Profile!
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B81&width=435&lines=AI+Developer+%7C+React+%7C+Kotlin+%7C+SQL;Passionate+about+AI+and+Software+Development)
+<h1 align="center">👋 Welcome to My GitHub!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=600&lines=AI+Developer+🚀+|+Problem+Solver+💡+|+Tech+Enthusiast+🤖" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🏫 **Dongyang Mirae University** – AI Software Major
+- 💻 Passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**
+- 🔭 Currently developing **AI-based family communication app '우가'**
+- 🌱 Learning **React, Firebase, and AI Model Optimization**
+- ⚡ Interested in **AI-driven solutions for real-world problems**
+- 🎯 **Future Goal:** Becoming a top **AI Developer**
+- 📫 **Contact:** [kyungyunie@example.com](mailto:kyungyunie@example.com)
 
-### **Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+---
 
-### **Development Tools**
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,kotlin,react,js,nodejs,firebase,mysql,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Kyungyunie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungyunie&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungyunie&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-## 📝 Recent Blog Posts
-<!-- Latest blog posts dynamically fetched from Velog -->
-![Velog Posts](https://velog-readme-stats.vercel.app/api/list?name=kyungyunie)
+## 📂 Featured Projects
+
+### 🏡 AI Family Communication App "우가"
+- 🤖 AI-driven personalized questions for families
+- 📆 Integrated family calendar & shared activities
+- 📸 Memory-sharing feature for family bonding
+
+### 📌 TodoMate – AI-Powered Task Manager
+- ✅ Smart task prioritization using AI
+- 📊 Interactive charts for habit tracking
+- 🌙 Dark mode for better UX
+
+### 🛠 More Projects
+👉 Check out my repositories [here](https://github.com/kyungyunie?tab=repositories)  
 
 ---
 
-## 🎯 Projects & Contributions
-- 🔹 [CRUD Todo App](https://github.com/kyungyunie/frontend-projects/tree/main/crud-todo-app) - A simple CRUD-based Todo app.
-- 🔹 [Todo UI React](https://github.com/kyungyunie/frontend-projects/tree/main/todo-ui-react) - A React-based UI enhancement for the Todo app.
-- 🔹 [Family Communication App - 우가](https://github.com/kyungyunie/wga) - AI-powered family communication platform.
+## 📅 Career Timeline
+
+📌 **2024** - Graduated from **Dongyang Mirae University**  
+🚀 **2025** - Developed AI-based family communication app **"우가"**  
+💼 **2026** - Started career as an **AI Engineer**  
 
 ---
 
-## 🌐 Contact & Socials
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyungyunie)
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+📖 [Read More](https://your-blog-url.com)
 
 ---
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kyungyunie/&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/kyungyunie"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kyungyunie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-blog-url.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐️ From [kyungyunie](https://github.com/kyungyunie)
+## 🎯 Visitor Count
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=kyungyunie" />
+</p>
+
+---
+
