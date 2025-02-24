@@ -15,10 +15,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungyunie&layout=compact&theme=tokyonight)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=tokyonight)
+![Commits Analysis](https://github-readme-streak-stats.herokuapp.com/?user=kyungyunie&theme=tokyonight)
 
 
 ---
