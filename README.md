@@ -18,4 +18,8 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=tokyonight)
+
+
+---
 Thanks for visiting my profile! 😊
