@@ -16,10 +16,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungyunie&layout=compact&theme=tokyonight)
-
-<h3 align="left">📈 my github stats</h3>
-<br />
-
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=gotham&locale=en" alt="dasom222g" /></p>
-
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyungyunie&theme=gotham" alt="dasom222g" /></p>
