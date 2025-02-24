@@ -1,56 +1,78 @@
-# Hi there! 👋 Welcome to my GitHub Profile!
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B81&width=435&lines=AI+Developer+%7C+React+%7C+Kotlin+%7C+SQL;Passionate+about+AI+and+Software+Development)
+<h1 align="center">Hi there! 👋 I'm Kyungyunie</h1>
+<p align="center">
+  AI Developer 🚀 | Problem Solver 💡 | Tech Enthusiast 🤖
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 About Me
+- 🔭 I'm currently working on **AI-based family communication app '우가'**
+- 🌱 I'm learning **AI, Machine Learning, and Deep Learning**
+- 👯 I'm open to collaborations in **AI, React, and Full-Stack Development**
+- 📫 How to reach me: **kyungyunie@example.com**
+- ⚡ Fun fact: **I love playing basketball and weight training!**
 
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
-### **Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+## 🛠 Tech Stack
 
-### **Development Tools**
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Kyungyunie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungyunie&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungyunie&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
-## 📝 Recent Blog Posts
-<!-- Latest blog posts dynamically fetched from Velog -->
-![Velog Posts](https://velog-readme-stats.vercel.app/api/list?name=kyungyunie)
+## 📅 Career Timeline
+
+📌 **2024** - Graduated from **Dongyang Mirae University, AI Software Department**  
+🚀 **2025** - Developed AI-based family communication app **"우가"**  
+💼 **2026** - Started career as an **AI Engineer**  
 
 ---
 
-## 🎯 Projects & Contributions
-- 🔹 [CRUD Todo App](https://github.com/kyungyunie/frontend-projects/tree/main/crud-todo-app) - A simple CRUD-based Todo app.
-- 🔹 [Todo UI React](https://github.com/kyungyunie/frontend-projects/tree/main/todo-ui-react) - A React-based UI enhancement for the Todo app.
-- 🔹 [Family Communication App - 우가](https://github.com/kyungyunie/wga) - AI-powered family communication platform.
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More posts on my blog](https://your-blog-url.com)
 
 ---
 
-## 🌐 Contact & Socials
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyungyunie)
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/kyungyunie">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kyungyunie">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://your-blog-url.com">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kyungyunie/&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
+## 🎯 Visitor Count
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=kyungyunie" />
+</p>
 
 ---
 
-⭐️ From [kyungyunie](https://github.com/kyungyunie)
