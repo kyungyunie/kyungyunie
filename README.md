@@ -15,10 +15,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungyunie&layout=compact&theme=tokyonight)
-
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=buefy&count_private=true&include_all_commits=true"  />
