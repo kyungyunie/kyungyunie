@@ -6,12 +6,6 @@
 
 ---
 
- ## 📫 How to reach me:  
-- 💌 **Email:** yky0306129@gmail.com  
-- 📝 **Blog:** [Velog](https://velog.io/@kyungyunie) 
-
----
-
 ## ⚡ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
