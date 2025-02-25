@@ -21,9 +21,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=kyungyunie&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" height="150"/>
   </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kyungyunie&theme=white&hide_border=true" height="150"/>
-  </a>
 </div>
 
 
